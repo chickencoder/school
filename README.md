@@ -1,7 +1,7 @@
 # GCSE Notes :clipboard: :poop:
 An extensive library of notes curated by [chickencoder](https://github.com/chickencoder) for some GCSE subjects.
 
-So this repo contains full notes for...
+This repo contains full notes for...
 * Additional Science Chemistry
 * Additional Science Biology
 
