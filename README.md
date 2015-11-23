@@ -20,7 +20,7 @@ Eventually notes will be available for...
 * Extension Science Physics
 * Physical Geography (AQA A)
 * Human Geography (AQA A)
-* OCR Computing (Perhaps...)
+* OCR Computing
 
 **Others to be confirmed :smile:**
 
